@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.header-log{
+    display: flex;
+    justify-content: space-between;
+}
+.bigSellImg1 h6{
+    font-size: 119px;
+    font-weight: 500;
+    line-height: 145px;
+    color: #616E74;
+}
+.opisComp{
+    display: flex;
+    justify-content: space-evenly;
+}
+second-block{
+    display: flex;
+    justify-content: space-between;
+    background-color: #191919;
+    margin-top: 50px;
+}
+.newSellImg h4{
+    color: #6C3EB8;
+    font-weight: 300;
+    font-size: 70px;
+    line-height: 85px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.newSellImg h2{
+    color: #6C3EB8;
+    font-weight: 300;
+    font-size: 125px;
+    line-height: 185px;
+    text-align: center;
+}
+.newSellImg button{
+    margin-left: 185px;
+}
+.block{
+    background-color: #191919;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.p{
+    display: flex;
+}
